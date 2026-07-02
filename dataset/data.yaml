@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names: ['cardboard', 'garbage', 'glass', 'metal', 'organic', 'paper', 'plastic']
+
+roboflow:
+  workspace: ceez23s-workspace
+  project: trash-sorting-kloh6
+  version: dataset
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ceez23s-workspace/trash-sorting-kloh6/dataset/dataset
