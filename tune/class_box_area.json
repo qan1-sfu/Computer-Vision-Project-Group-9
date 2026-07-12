@@ -1,0 +1,13 @@
+{
+  "measure": "median YOLO box width fraction multiplied by height fraction",
+  "classes": {
+    "Bio": 0.00703125,
+    "Card": 0.1325351331360947,
+    "Glass": 0.11177884615384615,
+    "Metal": 0.03432414940828402,
+    "Paper": 0.21591854659763313,
+    "Plastic": 0.0256819408
+  },
+  "paper_to_bio_area_ratio": 30.70841551610782,
+  "similar_shape_linear_ratio": 5.541517438040579
+}

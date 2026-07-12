@@ -1,0 +1,24 @@
+{
+  "provenance": {
+    "online_split": "Saved output from the notebook evaluation of datasets/merged-6class/test",
+    "bioswap_split": "Saved output from the notebook evaluation of datasets/bioswap-test",
+    "metric": "mAP50",
+    "models": "The four dataset-variant checkpoints evaluated in notebook cells 60 and 62"
+  },
+  "baseline": {
+    "online_test": 0.683,
+    "bioswap_test": 0.588
+  },
+  "bio-swap": {
+    "online_test": 0.634,
+    "bioswap_test": 0.742
+  },
+  "balanced-studio": {
+    "online_test": 0.595,
+    "bioswap_test": 0.525
+  },
+  "balanced-bioswap": {
+    "online_test": 0.508,
+    "bioswap_test": 0.585
+  }
+}

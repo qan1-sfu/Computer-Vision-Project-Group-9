@@ -1,0 +1,80 @@
+{
+  "baseline": {
+    "val_mAP50": 0.645,
+    "test_mAP50": 0.3301,
+    "train_cls": 0.547,
+    "val_cls": 1.258
+  },
+  "mosaic=0.25": {
+    "val_mAP50": 0.635,
+    "test_mAP50": 0.2712,
+    "train_cls": 0.517,
+    "val_cls": 1.338
+  },
+  "cls=1.5": {
+    "val_mAP50": 0.643,
+    "test_mAP50": 0.3318,
+    "train_cls": 1.538,
+    "val_cls": 3.954
+  },
+  "lr0=0.001": {
+    "val_mAP50": 0.651,
+    "test_mAP50": 0.2952,
+    "train_cls": 0.491,
+    "val_cls": 1.286
+  },
+  "lr0=0.02": {
+    "val_mAP50": 0.638,
+    "test_mAP50": 0.2892,
+    "train_cls": 0.582,
+    "val_cls": 1.29
+  },
+  "mosaic=0.5": {
+    "val_mAP50": 0.635,
+    "test_mAP50": 0.2823,
+    "train_cls": 0.514,
+    "val_cls": 1.304
+  },
+  "imgsz=480": {
+    "val_mAP50": 0.643,
+    "test_mAP50": 0.2877,
+    "train_cls": 0.499,
+    "val_cls": 1.215
+  },
+  "lr0=0.005": {
+    "val_mAP50": 0.652,
+    "test_mAP50": 0.2646,
+    "train_cls": 0.458,
+    "val_cls": 1.293
+  },
+  "imgsz=960.0": {
+    "val_mAP50": 0.627,
+    "test_mAP50": 0.3127,
+    "train_cls": 0.595,
+    "val_cls": 1.424
+  },
+  "cls=1.0": {
+    "val_mAP50": 0.642,
+    "test_mAP50": 0.2882,
+    "train_cls": 1.007,
+    "val_cls": 2.596
+  },
+  "mosaic=0.0": {
+    "val_mAP50": 0.613,
+    "test_mAP50": 0.3074,
+    "train_cls": 0.517,
+    "val_cls": 1.346
+  },
+  "imgsz=800": {
+    "val_mAP50": 0.631,
+    "test_mAP50": 0.2856,
+    "train_cls": 0.547,
+    "val_cls": 1.363
+  },
+  "cls=2.0": {
+    "val_mAP50": 0.641,
+    "test_mAP50": 0.2794,
+    "train_cls": 2.074,
+    "val_cls": 5.351
+  }
+}
